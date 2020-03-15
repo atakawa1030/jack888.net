@@ -289,7 +289,11 @@ h1 {
     right:-20px;
     border-radius:2px;
 }
-
+.responsive {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
 .regis-a {
     text-align: center;
     color: #fff;
