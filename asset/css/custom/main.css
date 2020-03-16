@@ -289,9 +289,17 @@ h1 {
     right:-20px;
     border-radius:2px;
 }
+hr.new4 {
+  border: 1px solid gold;
+}
 .responsive {
     width: 100%;
     max-width: 600px;
+    height: auto;
+}
+.responsive-blog {
+    width: 100%;
+    max-width: 300px;
     height: auto;
 }
 .regis-a {
